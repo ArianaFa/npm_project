@@ -2,17 +2,18 @@
   "name": "@arianafa/my_npm_project",
   "version": "1.0.0",
   "main": "index.js",
-   "scripts": {  
-         "test": "node test.js"  
-       },
+  "scripts": {
+    "test": "node test.js"
+  },
   "author": "",
   "license": "ISC",
   "repository": {
     "type": "git",
     "url": "npm_project"
   },
-  "description": "",
+  "description": "Hi, I'm trying to learn npm.",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
-  }
+  },
+  "devDependencies": {}
 }
